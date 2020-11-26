@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='img1.jpg'>
+    <box top='9' left='50' width='173' height='170'/>
+  </image>
+  <image file='img10.jpg'>
+    <box top='41' left='202' width='29' height='22'/>
+  </image>
+  <image file='img11.jpg'>
+    <box top='65' left='100' width='63' height='67'/>
+  </image>
+  <image file='img12.jpg'>
+    <box top='37' left='43' width='43' height='38'/>
+  </image>
+  <image file='img13.jpg'>
+    <box top='3' left='77' width='134' height='134'/>
+  </image>
+  <image file='img14.jpg'>
+    <box top='45' left='124' width='26' height='25'/>
+  </image>
+  <image file='img15.jpg'>
+    <box top='90' left='170' width='81' height='68'/>
+  </image>
+  <image file='img16.jpg'>
+    <box top='54' left='119' width='26' height='29'/>
+  </image>
+  <image file='img17.jpg'>
+    <box top='56' left='58' width='57' height='46'/>
+  </image>
+  <image file='img18.jpg'>
+    <box top='88' left='86' width='30' height='28'/>
+  </image>
+  <image file='img19.jpg'>
+    <box top='61' left='121' width='39' height='44'/>
+  </image>
+  <image file='img2.jpg'>
+    <box top='5' left='98' width='134' height='136'/>
+  </image>
+  <image file='img20.jpg'>
+    <box top='1' left='33' width='32' height='23'/>
+  </image>
+  <image file='img21.jpg'>
+    <box top='83' left='153' width='89' height='62'/>
+  </image>
+  <image file='img22.jpg'>
+    <box top='60' left='28' width='46' height='49'/>
+  </image>
+  <image file='img23.jpg'>
+    <box top='109' left='106' width='59' height='58'/>
+  </image>
+  <image file='img3.jpg'>
+    <box top='71' left='131' width='111' height='107'/>
+  </image>
+  <image file='img4.jpg'>
+    <box top='4' left='31' width='104' height='99'/>
+  </image>
+  <image file='img5.jpg'>
+    <box top='49' left='19' width='111' height='121'/>
+  </image>
+  <image file='img6.jpg'>
+    <box top='6' left='71' width='130' height='120'/>
+  </image>
+  <image file='img7.jpg'>
+    <box top='3' left='37' width='218' height='190'/>
+  </image>
+  <image file='img8.jpg'>
+    <box top='1' left='84' width='116' height='124'/>
+  </image>
+  <image file='img9.jpg'>
+    <box top='91' left='63' width='70' height='64'/>
+  </image>
+</images>
+</dataset>

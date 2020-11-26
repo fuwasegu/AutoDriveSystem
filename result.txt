@@ -1,0 +1,600 @@
+getting 2 detses
+Executed in 0.2272799015045166 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 6.985664367675781e-05 seconds
+prepare rectangle if detects
+Executed in 2.86102294921875e-06 seconds
+showing image
+Executed in 0.5577821731567383 seconds
+getting 2 detses
+Executed in 0.23294901847839355 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 3.719329833984375e-05 seconds
+prepare rectangle if detects
+Executed in 4.291534423828125e-06 seconds
+showing image
+Executed in 0.0004799365997314453 seconds
+getting 2 detses
+Executed in 0.2247028350830078 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.5033950805664062e-05 seconds
+prepare rectangle if detects
+Executed in 3.0994415283203125e-06 seconds
+showing image
+Executed in 0.0005049705505371094 seconds
+getting 2 detses
+Executed in 0.22597765922546387 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.8848648071289062e-05 seconds
+prepare rectangle if detects
+Executed in 2.86102294921875e-06 seconds
+showing image
+Executed in 0.0008711814880371094 seconds
+getting 2 detses
+Executed in 0.20783591270446777 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.9087066650390625e-05 seconds
+prepare rectangle if detects
+Executed in 3.0994415283203125e-06 seconds
+showing image
+Executed in 0.0005679130554199219 seconds
+getting 2 detses
+Executed in 0.22711181640625 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.8848648071289062e-05 seconds
+prepare rectangle if detects
+Executed in 5.0067901611328125e-06 seconds
+showing image
+Executed in 0.0006389617919921875 seconds
+getting 2 detses
+Executed in 0.2671318054199219 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.7894973754882812e-05 seconds
+prepare rectangle if detects
+Executed in 3.0994415283203125e-06 seconds
+showing image
+Executed in 0.0005502700805664062 seconds
+getting 2 detses
+Executed in 0.2174668312072754 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.7894973754882812e-05 seconds
+prepare rectangle if detects
+Executed in 1.6689300537109375e-06 seconds
+showing image
+Executed in 0.0005838871002197266 seconds
+getting 2 detses
+Executed in 0.22867083549499512 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.193450927734375e-05 seconds
+prepare rectangle if detects
+Executed in 1.9073486328125e-06 seconds
+showing image
+Executed in 0.0006248950958251953 seconds
+getting 2 detses
+Executed in 0.25611186027526855 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.8133392333984375e-05 seconds
+prepare rectangle if detects
+Executed in 4.0531158447265625e-06 seconds
+showing image
+Executed in 0.0004961490631103516 seconds
+getting 2 detses
+Executed in 0.22434496879577637 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.09808349609375e-05 seconds
+prepare rectangle if detects
+Executed in 2.1457672119140625e-06 seconds
+showing image
+Executed in 0.0005369186401367188 seconds
+getting 2 detses
+Executed in 0.23950815200805664 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 3.0994415283203125e-05 seconds
+prepare rectangle if detects
+Executed in 4.0531158447265625e-06 seconds
+showing image
+Executed in 0.000518798828125 seconds
+getting 2 detses
+Executed in 0.2209339141845703 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 4.00543212890625e-05 seconds
+prepare rectangle if detects
+Executed in 5.7220458984375e-06 seconds
+showing image
+Executed in 0.0006132125854492188 seconds
+getting 2 detses
+Executed in 0.21135997772216797 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.6941299438476562e-05 seconds
+prepare rectangle if detects
+Executed in 3.0994415283203125e-06 seconds
+showing image
+Executed in 0.000553131103515625 seconds
+getting 2 detses
+Executed in 0.26410531997680664 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.6226043701171875e-05 seconds
+prepare rectangle if detects
+Executed in 3.0994415283203125e-06 seconds
+showing image
+Executed in 0.0005209445953369141 seconds
+getting 2 detses
+Executed in 0.19637393951416016 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.47955322265625e-05 seconds
+prepare rectangle if detects
+Executed in 3.0994415283203125e-06 seconds
+showing image
+Executed in 0.0005521774291992188 seconds
+getting 2 detses
+Executed in 0.19130969047546387 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.5987625122070312e-05 seconds
+prepare rectangle if detects
+Executed in 2.86102294921875e-06 seconds
+showing image
+Executed in 0.0005609989166259766 seconds
+getting 2 detses
+Executed in 0.19799566268920898 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 3.0040740966796875e-05 seconds
+prepare rectangle if detects
+Executed in 2.86102294921875e-06 seconds
+showing image
+Executed in 0.0005550384521484375 seconds
+getting 2 detses
+Executed in 0.19446206092834473 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.5987625122070312e-05 seconds
+prepare rectangle if detects
+Executed in 3.814697265625e-06 seconds
+showing image
+Executed in 0.0005030632019042969 seconds
+getting 2 detses
+Executed in 0.20228981971740723 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.7894973754882812e-05 seconds
+prepare rectangle if detects
+Executed in 2.86102294921875e-06 seconds
+showing image
+Executed in 0.0005130767822265625 seconds
+getting 2 detses
+Executed in 0.20403480529785156 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 5.412101745605469e-05 seconds
+prepare rectangle if detects
+Executed in 1.0013580322265625e-05 seconds
+showing image
+Executed in 0.0008230209350585938 seconds
+getting 2 detses
+Executed in 0.19801592826843262 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.5033950805664062e-05 seconds
+prepare rectangle if detects
+Executed in 3.0994415283203125e-06 seconds
+showing image
+Executed in 0.0005180835723876953 seconds
+getting 2 detses
+Executed in 0.19192194938659668 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.7179718017578125e-05 seconds
+prepare rectangle if detects
+Executed in 3.0994415283203125e-06 seconds
+showing image
+Executed in 0.0005218982696533203 seconds
+getting 2 detses
+Executed in 0.19460415840148926 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.47955322265625e-05 seconds
+prepare rectangle if detects
+Executed in 2.86102294921875e-06 seconds
+showing image
+Executed in 0.0005710124969482422 seconds
+getting 2 detses
+Executed in 0.2017378807067871 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.09808349609375e-05 seconds
+prepare rectangle if detects
+Executed in 3.0994415283203125e-06 seconds
+showing image
+Executed in 0.0005230903625488281 seconds
+getting 2 detses
+Executed in 0.1995861530303955 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.5033950805664062e-05 seconds
+prepare rectangle if detects
+Executed in 3.0994415283203125e-06 seconds
+showing image
+Executed in 0.0005278587341308594 seconds
+getting 2 detses
+Executed in 0.192626953125 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.002716064453125e-05 seconds
+prepare rectangle if detects
+Executed in 3.0994415283203125e-06 seconds
+showing image
+Executed in 0.0005190372467041016 seconds
+getting 2 detses
+Executed in 0.19088387489318848 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.288818359375e-05 seconds
+prepare rectangle if detects
+Executed in 3.0994415283203125e-06 seconds
+showing image
+Executed in 0.0005218982696533203 seconds
+getting 2 detses
+Executed in 0.21523094177246094 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 0.00015616416931152344 seconds
+prepare rectangle if detects
+Executed in 3.814697265625e-06 seconds
+showing image
+Executed in 0.0005121231079101562 seconds
+getting 2 detses
+Executed in 0.19214916229248047 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.5987625122070312e-05 seconds
+prepare rectangle if detects
+Executed in 3.814697265625e-06 seconds
+showing image
+Executed in 0.0005393028259277344 seconds
+getting 2 detses
+Executed in 0.19468998908996582 seconds
+Stop sign: rectangles[[(376, 305) (615, 496)]]
+Do not park sign: rectangles[]
+counting
+Executed in 3.719329833984375e-05 seconds
+prepare rectangle if detects
+Executed in 2.1457672119140625e-06 seconds
+showing image
+Executed in 0.0005679130554199219 seconds
+getting 2 detses
+Executed in 0.1950840950012207 seconds
+Stop sign: rectangles[[(337, 251) (624, 480)]]
+Do not park sign: rectangles[]
+counting
+Executed in 3.0994415283203125e-05 seconds
+prepare rectangle if detects
+Executed in 3.0994415283203125e-06 seconds
+showing image
+Executed in 0.0005130767822265625 seconds
+getting 2 detses
+Executed in 0.22354626655578613 seconds
+Stop sign: rectangles[[(376, 257) (615, 448)]]
+Do not park sign: rectangles[]
+counting
+Executed in 3.886222839355469e-05 seconds
+prepare rectangle if detects
+Executed in 2.86102294921875e-06 seconds
+showing image
+Executed in 0.0006699562072753906 seconds
+getting 2 detses
+Executed in 0.20364093780517578 seconds
+Stop sign: rectangles[[(376, 257) (615, 448)]]
+Do not park sign: rectangles[]
+counting
+Executed in 3.981590270996094e-05 seconds
+prepare rectangle if detects
+Executed in 3.0994415283203125e-06 seconds
+showing image
+Executed in 0.0005948543548583984 seconds
+getting 2 detses
+Executed in 0.20914006233215332 seconds
+Stop sign: rectangles[[(376, 257) (615, 448)]]
+Do not park sign: rectangles[]
+counting
+Executed in 3.409385681152344e-05 seconds
+prepare rectangle if detects
+Executed in 4.0531158447265625e-06 seconds
+showing image
+Executed in 0.0005140304565429688 seconds
+getting 2 detses
+Executed in 0.2033829689025879 seconds
+Stop sign: rectangles[[(400, 257) (639, 448)]]
+Do not park sign: rectangles[]
+counting
+Executed in 4.1961669921875e-05 seconds
+prepare rectangle if detects
+Executed in 3.814697265625e-06 seconds
+showing image
+Executed in 0.0006110668182373047 seconds
+getting 2 detses
+Executed in 0.20783686637878418 seconds
+Stop sign: rectangles[[(400, 257) (639, 448)]]
+Do not park sign: rectangles[]
+counting
+Executed in 3.790855407714844e-05 seconds
+prepare rectangle if detects
+Executed in 4.0531158447265625e-06 seconds
+showing image
+Executed in 0.0005528926849365234 seconds
+getting 2 detses
+Executed in 0.20664191246032715 seconds
+Stop sign: rectangles[[(400, 257) (639, 448)]]
+Do not park sign: rectangles[]
+counting
+Executed in 4.00543212890625e-05 seconds
+prepare rectangle if detects
+Executed in 3.814697265625e-06 seconds
+showing image
+Executed in 0.0005359649658203125 seconds
+getting 2 detses
+Executed in 0.21651816368103027 seconds
+Stop sign: rectangles[[(400, 257) (639, 448)]]
+Do not park sign: rectangles[]
+counting
+Executed in 3.0994415283203125e-05 seconds
+prepare rectangle if detects
+Executed in 1.9073486328125e-06 seconds
+showing image
+Executed in 0.0005140304565429688 seconds
+getting 2 detses
+Executed in 0.1942577362060547 seconds
+Stop sign: rectangles[[(366, 251) (652, 480)]]
+Do not park sign: rectangles[]
+counting
+Executed in 3.0040740966796875e-05 seconds
+prepare rectangle if detects
+Executed in 0.006520986557006836 seconds
+showing image
+Executed in 0.001112222671508789 seconds
+getting 2 detses
+Executed in 0.22303318977355957 seconds
+Stop sign: rectangles[[(376, 281) (615, 472)]]
+Do not park sign: rectangles[]
+counting
+Executed in 5.2928924560546875e-05 seconds
+prepare rectangle if detects
+Executed in 0.00017309188842773438 seconds
+showing image
+Executed in 0.0005497932434082031 seconds
+getting 2 detses
+Executed in 0.21270513534545898 seconds
+Stop sign: rectangles[[(337, 251) (624, 480)]]
+Do not park sign: rectangles[]
+counting
+Executed in 3.3855438232421875e-05 seconds
+prepare rectangle if detects
+Executed in 0.00011420249938964844 seconds
+showing image
+Executed in 0.0005290508270263672 seconds
+getting 2 detses
+Executed in 0.2060248851776123 seconds
+Stop sign: rectangles[[(308, 251) (595, 480)]]
+Do not park sign: rectangles[]
+counting
+Executed in 3.600120544433594e-05 seconds
+prepare rectangle if detects
+Executed in 0.00011706352233886719 seconds
+showing image
+Executed in 0.0006589889526367188 seconds
+getting 2 detses
+Executed in 0.21355319023132324 seconds
+Stop sign: rectangles[[(308, 251) (595, 480)]]
+Do not park sign: rectangles[]
+counting
+Executed in 3.4809112548828125e-05 seconds
+prepare rectangle if detects
+Executed in 0.0001251697540283203 seconds
+showing image
+Executed in 0.00048804283142089844 seconds
+getting 2 detses
+Executed in 0.20749902725219727 seconds
+Stop sign: rectangles[[(308, 251) (595, 480)]]
+Do not park sign: rectangles[]
+counting
+Executed in 3.409385681152344e-05 seconds
+prepare rectangle if detects
+Executed in 0.0001232624053955078 seconds
+showing image
+Executed in 0.0005052089691162109 seconds
+getting 2 detses
+Executed in 0.20625686645507812 seconds
+Stop sign: rectangles[[(337, 251) (624, 480)]]
+Do not park sign: rectangles[]
+counting
+Executed in 3.981590270996094e-05 seconds
+prepare rectangle if detects
+Executed in 0.00013494491577148438 seconds
+showing image
+Executed in 0.0006201267242431641 seconds
+getting 2 detses
+Executed in 0.21748995780944824 seconds
+Stop sign: rectangles[[(308, 251) (595, 480)]]
+Do not park sign: rectangles[]
+counting
+Executed in 2.8848648071289062e-05 seconds
+prepare rectangle if detects
+Executed in 0.00010895729064941406 seconds
+showing image
+Executed in 0.0004947185516357422 seconds
+getting 2 detses
+Executed in 0.20079493522644043 seconds
+Stop sign: rectangles[[(308, 251) (595, 480)]]
+Do not park sign: rectangles[]
+counting
+Executed in 3.695487976074219e-05 seconds
+prepare rectangle if detects
+Executed in 0.00012493133544921875 seconds
+showing image
+Executed in 0.0006279945373535156 seconds
+getting 2 detses
+Executed in 0.2031540870666504 seconds
+Stop sign: rectangles[[(308, 280) (595, 509)]]
+Do not park sign: rectangles[]
+counting
+Executed in 3.504753112792969e-05 seconds
+prepare rectangle if detects
+Executed in 0.00013399124145507812 seconds
+showing image
+Executed in 0.0006070137023925781 seconds
+getting 2 detses
+Executed in 0.20859003067016602 seconds
+Stop sign: rectangles[[(352, 281) (591, 472)]]
+Do not park sign: rectangles[]
+counting
+Executed in 2.7894973754882812e-05 seconds
+prepare rectangle if detects
+Executed in 0.00010800361633300781 seconds
+showing image
+Executed in 0.0005090236663818359 seconds
+getting 2 detses
+Executed in 0.2057819366455078 seconds
+Stop sign: rectangles[[(308, 280) (595, 509)]]
+Do not park sign: rectangles[]
+counting
+Executed in 3.981590270996094e-05 seconds
+prepare rectangle if detects
+Executed in 0.00013208389282226562 seconds
+showing image
+Executed in 0.0006589889526367188 seconds
+getting 2 detses
+Executed in 0.19689679145812988 seconds
+Stop sign: rectangles[[(352, 281) (591, 472)]]
+Do not park sign: rectangles[]
+counting
+Executed in 7.82012939453125e-05 seconds
+prepare rectangle if detects
+Executed in 0.0001049041748046875 seconds
+showing image
+Executed in 0.0005159378051757812 seconds
+getting 2 detses
+Executed in 0.20258498191833496 seconds
+Stop sign: rectangles[[(352, 281) (591, 472)]]
+Do not park sign: rectangles[]
+counting
+Executed in 4.029273986816406e-05 seconds
+prepare rectangle if detects
+Executed in 0.00011897087097167969 seconds
+showing image
+Executed in 0.0005431175231933594 seconds
+getting 2 detses
+Executed in 0.19774103164672852 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.09808349609375e-05 seconds
+prepare rectangle if detects
+Executed in 3.0994415283203125e-06 seconds
+showing image
+Executed in 0.0005960464477539062 seconds
+getting 2 detses
+Executed in 0.1967790126800537 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.0265579223632812e-05 seconds
+prepare rectangle if detects
+Executed in 2.1457672119140625e-06 seconds
+showing image
+Executed in 0.0006411075592041016 seconds
+getting 2 detses
+Executed in 0.20386695861816406 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.6941299438476562e-05 seconds
+prepare rectangle if detects
+Executed in 3.0994415283203125e-06 seconds
+showing image
+Executed in 0.0005869865417480469 seconds
+getting 2 detses
+Executed in 0.19470691680908203 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.3126602172851562e-05 seconds
+prepare rectangle if detects
+Executed in 1.9073486328125e-06 seconds
+showing image
+Executed in 0.0005939006805419922 seconds
+getting 2 detses
+Executed in 0.19158506393432617 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.193450927734375e-05 seconds
+prepare rectangle if detects
+Executed in 1.9073486328125e-06 seconds
+showing image
+Executed in 0.0005300045013427734 seconds
+getting 2 detses
+Executed in 0.19960498809814453 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.002716064453125e-05 seconds
+prepare rectangle if detects
+Executed in 1.9073486328125e-06 seconds
+showing image
+Executed in 0.0005221366882324219 seconds
+getting 2 detses
+Executed in 0.19454693794250488 seconds
+Stop sign: rectangles[]
+Do not park sign: rectangles[]
+counting
+Executed in 2.4080276489257812e-05 seconds
+prepare rectangle if detects
+Executed in 3.0994415283203125e-06 seconds
+showing image
+Executed in 0.00047898292541503906 seconds

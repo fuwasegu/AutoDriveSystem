@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='img1.jpg'>
+    <box top='48' left='62' width='126' height='108'/>
+  </image>
+  <image file='img10.jpg'>
+    <box top='27' left='58' width='82' height='72'/>
+  </image>
+  <image file='img11.jpg'>
+    <box top='32' left='17' width='103' height='105'/>
+  </image>
+  <image file='img12.jpg'>
+    <box top='9' left='5' width='109' height='141'/>
+  </image>
+  <image file='img13.jpg'>
+    <box top='13' left='103' width='72' height='62'/>
+  </image>
+  <image file='img14.jpg'>
+    <box top='134' left='10' width='154' height='125'/>
+  </image>
+  <image file='img15.jpg'>
+    <box top='5' left='3' width='60' height='55'/>
+  </image>
+  <image file='img16.jpg'>
+    <box top='82' left='93' width='80' height='71'/>
+  </image>
+  <image file='img17.jpg'>
+    <box top='96' left='98' width='70' height='70'/>
+  </image>
+  <image file='img18.jpg'>
+    <box top='2' left='92' width='111' height='115'/>
+  </image>
+  <image file='img19.jpg'>
+    <box top='75' left='21' width='156' height='143'/>
+  </image>
+  <image file='img2.jpg'>
+    <box top='10' left='22' width='207' height='169'/>
+  </image>
+  <image file='img20.jpg'>
+    <box top='24' left='30' width='305' height='271'/>
+  </image>
+  <image file='img3.jpg'>
+    <box top='12' left='51' width='130' height='138'/>
+  </image>
+  <image file='img4.jpg'>
+    <box top='33' left='47' width='70' height='69'/>
+  </image>
+  <image file='img5.jpg'>
+    <box top='39' left='87' width='126' height='109'/>
+  </image>
+  <image file='img6.jpg'>
+    <box top='58' left='34' width='91' height='84'/>
+  </image>
+  <image file='img7.jpg'>
+    <box top='42' left='59' width='153' height='121'/>
+  </image>
+  <image file='img8.jpg'>
+    <box top='25' left='53' width='164' height='151'/>
+  </image>
+  <image file='img9.jpg'>
+    <box top='28' left='116' width='127' height='138'/>
+  </image>
+</images>
+</dataset>
