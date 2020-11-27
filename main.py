@@ -18,14 +18,11 @@ def main():
     find_flag2 = 0
     counter3 = 0
     find_flag3 = 0
-    # dets1 = []
-    # dets2 = []
-    # dets3 = []
+    
     while True:
         ret, frame = cap.read()
-        if ret == False:
+        if not ret:
             break
-
 
         with stopwatchcm():
             dets1 = detector_stop_sign(frame, 0)
@@ -74,19 +71,19 @@ def main():
                 for det in dets1:
                     cv2.rectangle(frame, (det.left(), det.top()), (det.right(), det.bottom()), (255, 0, 0), 3)
                 if find_flag1 == 0:
-                    subprocess.Popen(['say', '前方に一時停止標識があります'])
+                    talk('前方に一時停止標識があります')
                     find_flag1 = 1
             if counter2 >= 10:
                 for det in dets2:
                     cv2.rectangle(frame, (det.left(), det.top()), (det.right(), det.bottom()), (0, 255, 0), 3)
                 if find_flag2 == 0:
-                    subprocess.Popen(['say', '駐車禁止エリアです'])
+                    talk('駐車禁止エリアです')
                     find_flag2 = 1
             if counter3 >= 10:
                 for det in dets3:
                     cv2.rectangle(frame, (det.left(), det.top()), (det.right(), det.bottom()), (0, 0, 255), 3)
                 if find_flag3 == 0:
-                    subprocess.Popen(['say', '駐停車禁止エリアです'])
+                    talk('駐停車禁止エリアです')
                     find_flag3 = 1
             
             print('prepare rectangle if detects')
@@ -96,24 +93,31 @@ def main():
 
             print('showing image')
 
-        if cv2.waitKey(1) == 27: # ESCキーで終了
+        if cv2.waitKey(1) == 27:  # ESCキーで終了
             break
 
     cap.release()
     cv2.destroyAllWindows()
 
 
+def talk(message):
+    subprocess.Popen(['sh', 'speech.sh', message])
+
+
 def process_stop(frame):
     dets1 = detector_stop_sign(frame, 0)
     return dets1
+
 
 def process_do_not_park(frame):
     dets2 = detector_do_not_park_sign(frame, 0)
     return dets2
 
+
 def process_do_not_park_and_stop(frame):
     dets3 = detector_do_not_park_and_stop(frame, 0)
     return dets3
+
 
 if __name__ == '__main__':
     main()
